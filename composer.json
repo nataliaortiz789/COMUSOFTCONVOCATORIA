@@ -1,0 +1,13 @@
+{
+    "name": "comusoft/api-usuarios",
+    "description": "API REST de usuarios comusoft",
+    "type": "library",
+    "authors": [
+      {
+        "name": "Yerson Carmona",
+        "email": "yersonalexiscj@ufps.edu.co"
+      }
+    ],
+    "version": "1.0",
+    "license": "MIT"
+  }
